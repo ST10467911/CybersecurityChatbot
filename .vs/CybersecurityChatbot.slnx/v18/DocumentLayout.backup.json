@@ -1,0 +1,138 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lab_services_student\\source\\repos\\prog6221-g3-2026-part1-ST10467911\\CybersecurityChatbot\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3ACA11A9-0EF8-A698-AF03-F9F11BD2B6C0}|CybersecurityChatbot.csproj|c:\\users\\lab_services_student\\source\\repos\\prog6221-g3-2026-part1-st10467911\\cybersecuritychatbot\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{3ACA11A9-0EF8-A698-AF03-F9F11BD2B6C0}|CybersecurityChatbot.csproj|solutionrelative:readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3ACA11A9-0EF8-A698-AF03-F9F11BD2B6C0}|CybersecurityChatbot.csproj|c:\\users\\lab_services_student\\source\\repos\\prog6221-g3-2026-part1-st10467911\\cybersecuritychatbot\\dotnet.yml||{06C066C6-04A2-4E5D-8202-439FD4234EF1}",
+      "RelativeMoniker": "D:0:0:{3ACA11A9-0EF8-A698-AF03-F9F11BD2B6C0}|CybersecurityChatbot.csproj|solutionrelative:dotnet.yml||{06C066C6-04A2-4E5D-8202-439FD4234EF1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3ACA11A9-0EF8-A698-AF03-F9F11BD2B6C0}|CybersecurityChatbot.csproj|c:\\users\\lab_services_student\\source\\repos\\prog6221-g3-2026-part1-st10467911\\cybersecuritychatbot\\audioplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3ACA11A9-0EF8-A698-AF03-F9F11BD2B6C0}|CybersecurityChatbot.csproj|solutionrelative:audioplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3ACA11A9-0EF8-A698-AF03-F9F11BD2B6C0}|CybersecurityChatbot.csproj|c:\\users\\lab_services_student\\source\\repos\\prog6221-g3-2026-part1-st10467911\\cybersecuritychatbot\\chatbot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3ACA11A9-0EF8-A698-AF03-F9F11BD2B6C0}|CybersecurityChatbot.csproj|solutionrelative:chatbot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3ACA11A9-0EF8-A698-AF03-F9F11BD2B6C0}|CybersecurityChatbot.csproj|c:\\users\\lab_services_student\\source\\repos\\prog6221-g3-2026-part1-st10467911\\cybersecuritychatbot\\ascii-art.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{3ACA11A9-0EF8-A698-AF03-F9F11BD2B6C0}|CybersecurityChatbot.csproj|solutionrelative:ascii-art.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3ACA11A9-0EF8-A698-AF03-F9F11BD2B6C0}|CybersecurityChatbot.csproj|c:\\users\\lab_services_student\\source\\repos\\prog6221-g3-2026-part1-st10467911\\cybersecuritychatbot\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3ACA11A9-0EF8-A698-AF03-F9F11BD2B6C0}|CybersecurityChatbot.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3ACA11A9-0EF8-A698-AF03-F9F11BD2B6C0}|CybersecurityChatbot.csproj|c:\\users\\lab_services_student\\source\\repos\\prog6221-g3-2026-part1-st10467911\\cybersecuritychatbot\\uihelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3ACA11A9-0EF8-A698-AF03-F9F11BD2B6C0}|CybersecurityChatbot.csproj|solutionrelative:uihelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UIHelper.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\source\\repos\\prog6221-g3-2026-part1-ST10467911\\CybersecurityChatbot\\UIHelper.cs",
+              "RelativeDocumentMoniker": "UIHelper.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\source\\repos\\prog6221-g3-2026-part1-ST10467911\\CybersecurityChatbot\\UIHelper.cs",
+              "RelativeToolTip": "UIHelper.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAAE0AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-23T18:14:42.823Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\source\\repos\\prog6221-g3-2026-part1-ST10467911\\CybersecurityChatbot\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\source\\repos\\prog6221-g3-2026-part1-ST10467911\\CybersecurityChatbot\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-23T18:08:27.077Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "dotnet.yml",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\source\\repos\\prog6221-g3-2026-part1-ST10467911\\CybersecurityChatbot\\dotnet.yml",
+              "RelativeDocumentMoniker": "dotnet.yml",
+              "ToolTip": "C:\\Users\\lab_services_student\\source\\repos\\prog6221-g3-2026-part1-ST10467911\\CybersecurityChatbot\\dotnet.yml",
+              "RelativeToolTip": "dotnet.yml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2026-03-25T11:07:03.556Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "README.md",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\source\\repos\\prog6221-g3-2026-part1-ST10467911\\CybersecurityChatbot\\README.md",
+              "RelativeDocumentMoniker": "README.md",
+              "ToolTip": "C:\\Users\\lab_services_student\\source\\repos\\prog6221-g3-2026-part1-ST10467911\\CybersecurityChatbot\\README.md",
+              "RelativeToolTip": "README.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2026-03-25T09:22:20.427Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ascii-art.txt",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\source\\repos\\prog6221-g3-2026-part1-ST10467911\\CybersecurityChatbot\\ascii-art.txt",
+              "RelativeDocumentMoniker": "ascii-art.txt",
+              "ToolTip": "C:\\Users\\lab_services_student\\source\\repos\\prog6221-g3-2026-part1-ST10467911\\CybersecurityChatbot\\ascii-art.txt",
+              "RelativeToolTip": "ascii-art.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2026-03-25T09:20:09.816Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Chatbot.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\source\\repos\\prog6221-g3-2026-part1-ST10467911\\CybersecurityChatbot\\Chatbot.cs",
+              "RelativeDocumentMoniker": "Chatbot.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\source\\repos\\prog6221-g3-2026-part1-ST10467911\\CybersecurityChatbot\\Chatbot.cs",
+              "RelativeToolTip": "Chatbot.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAwwD0AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T09:18:42.123Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AudioPlayer.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\source\\repos\\prog6221-g3-2026-part1-ST10467911\\CybersecurityChatbot\\AudioPlayer.cs",
+              "RelativeDocumentMoniker": "AudioPlayer.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\source\\repos\\prog6221-g3-2026-part1-ST10467911\\CybersecurityChatbot\\AudioPlayer.cs",
+              "RelativeToolTip": "AudioPlayer.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAAB0AAABiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T09:17:55.243Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
