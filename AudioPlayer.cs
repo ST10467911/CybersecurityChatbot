@@ -11,18 +11,18 @@ namespace CybersecurityChatbot
         {
             try
             {
-                // Try to play WAV file
+                //Try to play WAV file
                 bool wavPlayed = await TryPlayWavFile();
 
                 if (!wavPlayed)
                 {
-                    // Fallback: beep pattern
+                    //Fallback: beep pattern
                     Console.Beep(440, 500);
                     await Task.Delay(100);
                     Console.Beep(587, 500);
                 }
 
-                // Display greeting text with typing effect
+                //Display greeting text with typing effect
                 Console.ForegroundColor = ConsoleColor.Magenta;
                 Console.Write("Voice Greeting: ");
                 Console.ResetColor();
@@ -69,7 +69,7 @@ namespace CybersecurityChatbot
                     }
                     catch
                     {
-                        // Continue to next path
+                        //Continue to next path
                     }
                 }
             }

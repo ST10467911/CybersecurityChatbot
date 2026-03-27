@@ -13,13 +13,13 @@ namespace CybersecurityChatbot
 
             try
             {
-                // Display startup message
+                //Display startup message
                 Console.ForegroundColor = ConsoleColor.Green;
                 Console.WriteLine("Starting Cybersecurity Awareness Chatbot...");
                 Console.ResetColor();
                 await Task.Delay(1000);
 
-                // Initialize and start the chatbot
+                //Initialize and start the chatbot
                 Chatbot chatbot = new Chatbot();
                 await chatbot.StartAsync();
             }

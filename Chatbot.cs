@@ -39,21 +39,21 @@ namespace CybersecurityChatbot
 
         public async Task StartAsync()
         {
-            // Play voice greeting
+            //Play voice greeting
             await audioPlayer.PlayVoiceGreetingAsync();
 
-            // Display ASCII art and welcome message
+            //Display ASCII art and welcome message
             UIHelper.DisplayAsciiArt();
             UIHelper.DisplayWelcomeMessage();
 
-            // Get user name
+            //Get user name
             await GetUserNameAsync();
 
-            // Show available topics
+            //Show available topics
             UIHelper.PrintWithTypingEffect("You can ask me about passwords, phishing, safe browsing, or suspicious links.");
             UIHelper.PrintWithTypingEffect("Type 'help' for options or 'goodbye' to exit.\n");
 
-            // Main conversation loop
+            //Main conversation loop
             await RunConversationLoop();
         }
 
@@ -77,7 +77,7 @@ namespace CybersecurityChatbot
         {
             while (isRunning)
             {
-                // Display separator
+                //Display separator
                 UIHelper.PrintColored("\n" + new string('━', 50), ConsoleColor.Cyan);
                 UIHelper.PrintColored($"\n{userName}: ", ConsoleColor.Green);
 
@@ -110,7 +110,7 @@ namespace CybersecurityChatbot
         {
             input = input.ToLower().Trim();
 
-            // Check each response keyword
+            //Check each response keyword
             foreach (var kvp in responses)
             {
                 if (input.Contains(kvp.Key))
@@ -119,25 +119,25 @@ namespace CybersecurityChatbot
                 }
             }
 
-            // Greeting responses
+            //Greeting responses
             if (input.Contains("hi") || input.Contains("hello") || input.Contains("hey"))
             {
                 return $"Hello {userName}! How can I assist with your cybersecurity questions today?";
             }
 
-            // Exit responses
+            //Exit responses
             if (input.Contains("bye") || input.Contains("exit") || input.Contains("quit"))
             {
                 return responses["goodbye"];
             }
 
-            // Thank you responses
+            //Thank you responses
             if (input.Contains("thank"))
             {
                 return responses["thanks"];
             }
 
-            // Default response for unrecognized input
+            //Default response for unrecognized input
             return "I didn't quite understand that. Could you rephrase? Try asking about passwords, phishing, safe browsing, or suspicious links. Type 'help' for more options.";
         }
     }
