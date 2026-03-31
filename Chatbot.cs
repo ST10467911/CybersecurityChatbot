@@ -23,17 +23,17 @@ namespace CybersecurityChatbot
         {
             return new Dictionary<string, string>(StringComparer.OrdinalIgnoreCase)
             {
-                ["How are you"] = "I'm functioning well,thank you! \n I'm here to help you stay safe online.",
-                ["What is your purpose"] = "My purpose is to educate South African citizens about cybersecurity threats and how to protect themselves online.",
-                ["What can i ask you about"] = "You can ask me about:\n• Password safety\n• Phishing scams\n• Safe browsing habits\n• Recognizing suspicious links\n• General cybersecurity tips",
-                ["Password"] = "PASSWORD SAFETY TIPS:\n• Use at least 12 characters with a mix of uppercase, lowercase, numbers, and symbols\n• Never reuse passwords across different accounts\n• Consider using a password manager like Bitwarden or LastPass\n• Enable two factor authentication whenever available\n• Avoid using personal information like birthdays or names",
-                ["Phishing"] = "PHISHING AWARENESS:\n• Never click suspicious links in emails or messages\n• Always verify the sender's email address carefully\n• Be wary of urgent requests for personal information\n• Banks and legitimate companies never ask for passwords via email\n• Check for spelling errors and unusual domain names",
-                ["Safe browsing"] = "SAFE BROWSING TIPS:\n• Look for 'https://' in website addresses (the 's' stands for secure)\n• Don't download files from untrusted sources\n• Keep your browser and software updated\n• Use reputable antivirus software\n• Be cautious on public Wi-Fi networks",
-                ["Suspicious links"] = "HOW TO SPOT SUSPICIOUS LINKS:\n• Hover over links to see the real URL before clicking\n• Check for misspellings in domain names (e.g., faceb00k.com)\n• Be cautious of shortened URLs (like bit.ly or tinyurl)\n• When in doubt, type the address manually into your browser\n• Look for unusual characters or numbers in the domain",
-                ["Help"] = "I can help you learn about cybersecurity \n Try asking me about:\n• Passwords\n• Phishing\n• Safe browsing\n• Suspicious links\n• South Africa cybersecurity",
-                ["Goodbye"] = "Stay safe online and remember to think before you click!",
-                ["Thanks"] = "You're welcome,stay cyber safe!",
-                ["South Africa"] = "SOUTH AFRICA CYBERSECURITY:\n• Report cybercrime to SAPS or the Cybersecurity Hub\n• South Africa has seen a 300% increase in cyberattacks recently\n• Be especially cautious of banking scams (vishing and smishing)\n• The POPI Act protects your personal information"
+                ["how are you"] = "I'm functioning well,thank you! \n I'm here to help you stay safe online.",
+                ["what is your purpose"] = "My purpose is to educate South African citizens about cybersecurity threats and how to protect themselves online.",
+                ["what can i ask you about"] = "You can ask me about:\n• Password safety\n• Phishing scams\n• Safe browsing habits\n• Recognizing suspicious links\n• General cybersecurity tips",
+                ["password"] = "PASSWORD SAFETY TIPS:\n• Use at least 12 characters with a mix of uppercase, lowercase, numbers, and symbols\n• Never reuse passwords across different accounts\n• Consider using a password manager like Bitwarden or LastPass\n• Enable two factor authentication whenever available\n• Avoid using personal information like birthdays or names",
+                ["phishing"] = "PHISHING AWARENESS:\n• Never click suspicious links in emails or messages\n• Always verify the sender's email address carefully\n• Be wary of urgent requests for personal information\n• Banks and legitimate companies never ask for passwords via email\n• Check for spelling errors and unusual domain names",
+                ["safe browsing"] = "SAFE BROWSING TIPS:\n• Look for 'https://' in website addresses (the 's' stands for secure)\n• Don't download files from untrusted sources\n• Keep your browser and software updated\n• Use reputable antivirus software\n• Be cautious on public Wi-Fi networks",
+                ["suspicious links"] = "HOW TO SPOT SUSPICIOUS LINKS:\n• Hover over links to see the real URL before clicking\n• Check for misspellings in domain names (e.g., faceb00k.com)\n• Be cautious of shortened URLs (like bit.ly or tinyurl)\n• When in doubt, type the address manually into your browser\n• Look for unusual characters or numbers in the domain",
+                ["help"] = "I can help you learn about cybersecurity \n Try asking me about:\n• Passwords\n• Phishing\n• Safe browsing\n• Suspicious links\n• South Africa cybersecurity",
+                ["goodbye"] = "Stay safe online and remember to think before you click!",
+                ["thanks"] = "You're welcome,stay cyber safe!",
+                ["south africa"] = "SOUTH AFRICA CYBERSECURITY:\n• Report cybercrime to SAPS or the Cybersecurity Hub\n• South Africa has seen a 300% increase in cyberattacks recently\n• Be especially cautious of banking scams (vishing and smishing)\n• The POPI Act protects your personal information"
             };
         }
 
