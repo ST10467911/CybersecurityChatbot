@@ -216,3 +216,5 @@ Chatbot: PHISHING AWARENESS: [tips...]
 
 //Youtube link 
 https://youtu.be/T4IOU0qhU70 
+
+//CI success images are located in 'workflows' folder 
