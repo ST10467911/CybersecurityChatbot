@@ -46,7 +46,7 @@ Using Command Line (if no Visual Studio):
 
 1. Press Windows key + R
 2. Type `cmd` and press Enter
-3. Type: `cd "C:\Users\YourName\Desktop\CybersecurityChatbot"` (change to your folder location)
+3. Type: `cd "C:\Users\lab_services_student\Desktop"`
 4. Type: `dotnet run`
 5. Press Enter
 
@@ -215,4 +215,4 @@ Chatbot: PHISHING AWARENESS: [tips...]
 ✅ 6+ commits with CI/CD
 
 //Youtube link 
-https://youtu.be/T4IOU0qhU70
+https://youtu.be/T4IOU0qhU70 
